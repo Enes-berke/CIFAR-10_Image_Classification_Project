@@ -1,5 +1,3 @@
-### README.md
-
 # Proje Adı: CIFAR-10 Görüntü Sınıflandırma Projesi
 
 ## Proje Amacı
